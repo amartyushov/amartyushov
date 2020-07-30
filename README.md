@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Evolutionary Architecture: Architectural testing: ArchUnit](https://www.youtube.com/watch?v=XrKCsk4d40g)
+- [Cucumber Jvm: custom listener](https://www.youtube.com/watch?v=iudFtypIMF0)
 <!-- YOUTUBE:END -->
 
 ---
