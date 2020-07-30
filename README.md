@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **amartyushov/amartyushov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,10 +25,11 @@ Here are some ideas to get you started:
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amartyushov&layout=compact)](https://github.com/amartyushov/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amartyushov&layout=compact)
 
 <br />
 
+### 📊 This week I spent my time on
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
