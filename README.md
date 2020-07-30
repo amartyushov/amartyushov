@@ -21,8 +21,19 @@ Here are some ideas to get you started:
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br />
+
+![amartyushov's github stats](https://github-readme-stats.vercel.app/api?username=amartyushov&count_private=true&show_icons=true)
 
 <br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amartyushov&layout=compact)](https://github.com/amartyushov/github-readme-stats)
+
+<br />
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
