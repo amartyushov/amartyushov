@@ -39,6 +39,7 @@ No Activity tracked this Week
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Linux/MAC: Productivity tip: alias and shell function](https://www.youtube.com/watch?v=Nbd-Qz7BTWM)
 - [Evolutionary Architecture: Architectural testing: ArchUnit](https://www.youtube.com/watch?v=XrKCsk4d40g)
 - [Cucumber Jvm: custom listener](https://www.youtube.com/watch?v=iudFtypIMF0)
 <!-- YOUTUBE:END -->
