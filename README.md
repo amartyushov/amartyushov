@@ -43,7 +43,7 @@ XML        0 secs          ░░░░░░░░░░░░░░░░░�
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Linux/MAC: Productivity tip: alias and shell function](https://www.youtube.com/watch?v=Nbd-Qz7BTWM)
+- [Productivity tips: Terminal: alias and shell function](https://www.youtube.com/watch?v=1vEp9n6Y0Yc)
 - [Evolutionary Architecture: Architectural testing: ArchUnit](https://www.youtube.com/watch?v=XrKCsk4d40g)
 - [Cucumber Jvm: custom listener](https://www.youtube.com/watch?v=iudFtypIMF0)
 <!-- YOUTUBE:END -->
