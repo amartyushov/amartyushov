@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ```text
 Java       4 hrs 53 mins   ████████████████████████░   95.62 % 
-Markdown   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-YAML       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Markdown   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+YAML       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 Groovy     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-XML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+XML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 <!--END_SECTION:waka-->
 
