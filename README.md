@@ -43,6 +43,7 @@ XML        0 secs          ░░░░░░░░░░░░░░░░░�
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Advanced Debugger Features in IntelliJ IDEA (2020)](https://www.youtube.com/watch?v=AOrnx-9zNBQ)
 - [Productivity tips: Terminal: alias and shell function](https://www.youtube.com/watch?v=1vEp9n6Y0Yc)
 - [Evolutionary Architecture: Architectural testing: ArchUnit](https://www.youtube.com/watch?v=XrKCsk4d40g)
 - [Cucumber Jvm: custom listener](https://www.youtube.com/watch?v=iudFtypIMF0)
