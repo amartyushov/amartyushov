@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Advanced Debugger Features in IntelliJ IDEA (2020)](https://www.youtube.com/watch?v=AOrnx-9zNBQ)
 - [Productivity tips: Terminal: alias and shell function](https://www.youtube.com/watch?v=1vEp9n6Y0Yc)
 - [Evolutionary Architecture: Architectural testing: ArchUnit](https://www.youtube.com/watch?v=XrKCsk4d40g)
+- [My Story of Microservices Testing | Aleksandr Martiushov](https://www.youtube.com/watch?v=ZQ0hjf3P-FM)
 - [Cucumber Jvm: custom listener](https://www.youtube.com/watch?v=iudFtypIMF0)
 <!-- YOUTUBE:END -->
 
