@@ -21,25 +21,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
-<!--![amartyushov's github stats](https://github-readme-stats.vercel.app/api?username=amartyushov&count_private=true&show_icons=true)-->
-
-<br />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amartyushov&layout=compact)
-
-<br />
-
-
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [Productivity tips: Terminal: alias and shell function](https://www.youtube.com/watch?v=1vEp9n6Y0Yc)
-- [Evolutionary Architecture: Architectural testing: ArchUnit](https://www.youtube.com/watch?v=XrKCsk4d40g)
-- [My Story of Microservices Testing | Aleksandr Martiushov](https://www.youtube.com/watch?v=ZQ0hjf3P-FM)
-- [Cucumber Jvm: custom listener](https://www.youtube.com/watch?v=iudFtypIMF0)
-<!-- YOUTUBE:END -->
-
----
-
 
 [website]: https://amartyushov.github.io/
 [twitter]: https://twitter.com/amartyushov
